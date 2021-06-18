@@ -54,6 +54,7 @@ h2 {
   text-transform: uppercase; }
 
 @media (min-width: 992px) {
+  
   #sideNav {
     text-align: center;
     position: fixed;
